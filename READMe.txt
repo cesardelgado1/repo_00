@@ -1,0 +1,1 @@
+Here we'll detail all libraries, APIs and general tools used to develope our code
